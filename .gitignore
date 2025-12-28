@@ -1,0 +1,16 @@
+# OS
+.DS_Store .DS_Store? ._* 
+
+# Security
+*.pub *.pem *.key id_* downlods downloads
+
+# Python/ML
+__pycache__/ *.pyc *.pyo
+*.pkl *.h5 *.model
+.env .venv/
+models/
+checkpoints/
+data/
+
+# IDE
+.vscode/ .idea/
